@@ -1,0 +1,10 @@
+[
+    {
+        "tenant": "company1",
+        "baseUrl": "https://company1.workflowpro.com"
+    },
+    {
+        "tenant": "company2",
+        "baseUrl": "https://company2.workflowpro.com"
+    }
+]
