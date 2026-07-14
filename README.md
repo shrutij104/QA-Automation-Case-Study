@@ -388,16 +388,9 @@ This framework follows:
 
 # Notes
 
-The WorkFlow Pro application and API endpoints referenced in this repository are part of the case study and are fictional.
 
 The implementation focuses on demonstrating framework design, automation strategy, code organization, and testing best practices rather than executing against a live application.
 
 ---
 
-# Author
-
-**Himanshu Chougule**
-
-QA Automation Engineer Case Study Submission
-
-Bynry Inc.
+Submission Document - https://docs.google.com/document/d/1Ojva4y-s7WdbpAOPJKu7NY4pZF21tienC0OZDzR5Xqw/edit?usp=sharing
